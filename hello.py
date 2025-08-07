@@ -29,9 +29,9 @@ print(list(range(0,10)))
 print(list(range(2,11,2)))
 
 # Dictionary: here we can assign key for each values eg:
-# d = {'prabin':'Iphone','sasin':'mac','ashok':'hp-laptop'}
+# d = {'jhon':'Iphone','doe':'mac','ram':'hp-laptop'}
 # print(d.values())
 # print(d.keys())
 # for getting a particular value
-# print(d['sasin'])
-# print(d.get('sasin'))
+# print(d['doe'])
+# print(d.get('doe'))
